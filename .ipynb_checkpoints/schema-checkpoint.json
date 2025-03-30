@@ -1,0 +1,29 @@
+{
+    "nodes": [
+        "House",
+        "Location",
+        "Ownership",
+        "Status",
+        "Transaction",
+        "Furnishing",
+        "Facing",
+        "Bathroom",
+        "Balcony",
+        "CarParking",
+        "CurrentFloor",
+        "TotalFloors"
+    ],
+    "relationships": [
+        "LOCATED_IN",
+        "HAS_OWNERSHIP",
+        "HAS_STATUS",
+        "HAS_TRANSACTION",
+        "HAS_FURNISHING",
+        "HAS_FACING",
+        "HAS_BATHROOM",
+        "HAS_BALCONY",
+        "HAS_CAR_PARKING",
+        "HAS_CURRENT_FLOOR",
+        "HAS_TOTAL_FLOORS"
+    ]
+}
